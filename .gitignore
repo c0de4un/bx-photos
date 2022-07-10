@@ -1,4 +1,8 @@
 # Bitrix
+/bitrix/templates/.default
+/bitrix/templates/furniture_blue
+/bitrix/templates/landing24
+
 /bitrix/admin/
 /bitrix/blocks/
 /bitrix/cache/
@@ -71,3 +75,21 @@ restore.php
 /search/map.php
 /services/index.php
 /urlrewrite.php
+/bitrix/.access.php
+/bitrix/.settings.php
+/bitrix/bitrix.php
+/bitrix/composer-bx.json
+/bitrix/composer.json.example
+/bitrix/coupon_activation.php
+/bitrix/footer.php
+/bitrix/header.php
+/bitrix/index.php
+/bitrix/legal/license.html
+/bitrix/legal/license.php
+/bitrix/license_key.php
+/bitrix/p3p.xml
+/bitrix/routing_index.php
+/bitrix/rss.php
+/bitrix/spread.php
+/bitrix/urlrewrite.php
+/bitrix/virtual_file_system.php
