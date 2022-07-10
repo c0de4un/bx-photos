@@ -2,5 +2,5 @@
 Bitrix Photo social network tutorial project
 
 # Requirements
-* PHP 8.1
-* MySQL 8
+* PHP 7.4
+* MySQL 5
