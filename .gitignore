@@ -1,5 +1,24 @@
 # Bitrix
-/bitrix/*
+/bitrix/admin/
+/bitrix/blocks/
+/bitrix/cache/
+/bitrix/components/
+/bitrix/css/
+/bitrix/fonts/
+/bitrix/gadgets/
+/bitrix/images/
+/bitrix/js/
+/bitrix/lega/
+/bitrix/managed_cache/
+/bitrix/modules/
+/bitrix/panel/
+/bitrix/services/
+/bitrix/sounds/
+/bitrix/themes/
+/bitrix/tmp/
+/bitrix/tools/
+/bitrix/updates/
+/bitrix/wizards/
 !/bitrix/php_interface/
 /bitrix/php_interface/dbconn.php
 .idea/*
